@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Carte de visite</title>
+		<link href="style.css" rel="stylesheet" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<div class="card">
+			<div class="content">
+				<h1>Hamza Sehoul</h1>
+				<h2>Futur Développeur Web</h2>
+				<p>Pourquoi je souhaite rejoindre Simplon :</p>
+				<ul>
+					<li>Méthode d'apprentissage qui me correspond.</li>
+					<li>Formation gratuite et accessible.</li>
+					<li>Valorisation de l'inclusion social.</li>
+				</ul>
+				<div class="buttons">
+					<a href="https://github.com/HamzaShl" target="_blank">Github </a>
+					<a
+						href="https://openclassrooms.com/fr/profile/view-as/recruiter"
+						target="_blank"
+						>OpenClassrooms</a
+					>
+					<a
+						href="https://www.codecademy.com/profiles/design3704748990"
+						target="_blank"
+						>Codecademy</a
+					>
+					<a
+						href="https://www.linkedin.com/in/hamza-sehoul-49b161314/"
+						target="_blank"
+						>LinkedIn</a
+					>
+				</div>
+			</div>
+			<div class="image">
+				<img src="assets\april_greiman.png" alt="Illustration" class="image" />
+			</div>
+		</div>
+	</body>
+</html>
